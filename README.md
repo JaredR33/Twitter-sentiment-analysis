@@ -4,7 +4,6 @@
 
 ![IMAGEN_PORTADA](/src/utils/PORTADA.png)
 
-Twitter sentiment analysis for The Bridge School, creating a database storaged on AWS. For full results, please consider this presentation [link to PowerPoint document](TWITTER%20SENTIMENT%20ANALYSIS.pptx)
 
 ## DATA SOURCE
 
