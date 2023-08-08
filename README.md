@@ -21,8 +21,9 @@ Dowloaded using twitter API and python libraries like TWINT (before twitter/X ap
 ![image](/src/utils/Top&users.png")
 
 ### WORD CLOUD
+![a](/Personal/Práctica/Entregables/Twitter-sentiment-analysis/src/utils/Wordcloud.png)
+![word_cloud](Personal\Práctica\Entregables\Twitter-sentiment-analysis\src\utils\Wordcloud.png)
 
-![word_cloud](src/utils/Wordcloud.png")
 
 
 
