@@ -18,11 +18,11 @@ Dowloaded using twitter API and python libraries like TWINT (before twitter/X ap
 
 ### TOP USERS 
 
-![image](/src/utils/Tuit&users.png")
+![image](/src/utils/Top&users.png")
 
 ### WORD CLOUD
 
-![word_cloud](/src/utils/Wordcloud.png")
+![word_cloud](src/utils/Wordcloud.png")
 
 
 
