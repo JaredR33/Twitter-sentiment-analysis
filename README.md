@@ -8,7 +8,7 @@ Twitter sentiment analysis for The Bridge School, creating a database storaged o
 
 Dowloaded using twitter API and python libraries like TWINT (before twitter/X api changes)
 
-![twitter_API](/src/utils/TWITTER_API.png)
+![twitter_API](/src/utils/TWITTER%API.png)
 
 ## NLP VISUALIZATIONS
 
